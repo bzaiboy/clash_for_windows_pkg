@@ -22,3 +22,6 @@ Rule:
   - 'DOMAIN-SUFFIX,ad.com,REJECT'
   - 'GEOIP,CN,DIRECT'
   - 'FINAL,,Proxy'
+cfw-bypass:
+  - 'music.163.com'
+  - '*.music.126.net'
